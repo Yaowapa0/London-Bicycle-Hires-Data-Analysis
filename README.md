@@ -22,8 +22,9 @@ Dataset contains the number of hires of London's Santander Cycle Hire Scheme fro
 
 ## Building dashboard with Power BI
 ### Page 1: Journey Analysis
-
+![image](https://user-images.githubusercontent.com/122316012/235786161-008e960a-b373-4a53-960a-bf996eba4197.png)
 
 
 
 ### Page 2: Popularity Analysis
+![image](https://user-images.githubusercontent.com/122316012/235786268-6dd0a218-b0d1-4cd0-9c1d-46c34f0a152e.png)
